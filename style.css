@@ -1,4 +1,23 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+body {
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+h1 {
+  color: gray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.maindiv {
+  background-color: white;
+  color: black;
+  padding: 20px;
+  width: 80%;
+  border-radius: 25px;
+  margin: auto;
+  margin-top: 30px;
+  text-align: center;
+}
+#mytable {
+  text-align: left;
+  margin: auto;
+}
